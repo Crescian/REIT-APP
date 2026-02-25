@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/REIT-APP/static/css/main.e6c13ad2.css",
+    "main.js": "/REIT-APP/static/js/main.5e072d1c.js",
+    "static/js/453.a86c6841.chunk.js": "/REIT-APP/static/js/453.a86c6841.chunk.js",
+    "index.html": "/REIT-APP/index.html",
+    "main.e6c13ad2.css.map": "/REIT-APP/static/css/main.e6c13ad2.css.map",
+    "main.5e072d1c.js.map": "/REIT-APP/static/js/main.5e072d1c.js.map",
+    "453.a86c6841.chunk.js.map": "/REIT-APP/static/js/453.a86c6841.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5e072d1c.js"
+  ]
+}
